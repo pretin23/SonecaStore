@@ -58,5 +58,17 @@
     "type": "vpk",
     "dest": "ux0:app/dsvita/Dementium II (Europe) (En,Fr,De,Es,It).nds",
     "desc": "O mais essencial explorador de arquivos, instalador de VPKs e cliente FTP para PS Vita."
+  },
+  {
+    "id": "Susurrus os Frorest",
+    "title": "Susurrus os Frorest",
+    "category": "Nintendo DS",
+    "author": "TheFloW",
+    "version": "2.00",
+    "size_mb": 39.3,
+    "url": "https://drive.google.com/file/d/1CGQfp5vLDWOYihjvbvFoDqmtQAXVNlDR/view?usp=sharing",
+    "type": "vpk",
+    "dest": "ux0:app/SussurrosDaFloresta",
+    "desc": "O mais essencial explorador de arquivos, instalador de VPKs e cliente FTP para PS Vita."
   }
 ]
