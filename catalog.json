@@ -38,8 +38,8 @@
   {
     "id": "vitashell",
     "title": "VitaShell (Gerenciador de Arquivos)",
-    "category": "Homebrew / VPK",
-    "author": "TheFloW",
+    "category": "Nintendo DS",
+    "author": "?",
     "version": "2.00",
     "size_mb": 4.5,
     "url": "https://github.com/TheOfficialFloW/VitaShell/releases/download/2.00/VitaShell.vpk",
@@ -49,7 +49,7 @@
   },
   {
     "id": "demetiun 2",
-    "title": "VitaShell (Gerenciador de Arquivos)",
+    "title": "Dementium II (Europe) (En,Fr,De,Es,It)",
     "category": "Homebrew / VPK",
     "author": "TheFloW",
     "version": "2.00",
