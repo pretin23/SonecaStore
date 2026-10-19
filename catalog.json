@@ -1,0 +1,38 @@
+[
+  {
+    "id": "crazy_zombie_9",
+    "title": "Crazy Zombie 9.0: The Heroes",
+    "category": "Flash / Ruffle",
+    "author": "Shanda Games",
+    "version": "9.0",
+    "size_mb": 28.5,
+    "url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/files/Crazy_Zombie_9.zip",
+    "type": "zip",
+    "dest": "ux0:data/FlashGames/Crazy_Zombie_9/",
+    "desc": "Jogo Flash Beat 'em up completo com Goku, Naruto, Sephiroth e outros."
+  },
+  {
+    "id": "dbz_supersonic_2",
+    "title": "Dragon Ball Z: Supersonic Warriors 2",
+    "category": "Nintendo DS",
+    "author": "Bandai / Cavia",
+    "version": "1.0",
+    "size_mb": 42.0,
+    "url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/files/dbz_supersonic2.nds",
+    "type": "file",
+    "dest": "ux0:data/dsvita/Dragon Ball Z - Supersonic Warriors 2.nds",
+    "desc": "Lutas aereas 2D para Nintendo DS (executar no DSVita ou NooDS)."
+  },
+  {
+    "id": "dementium_ward",
+    "title": "Dementium: The Ward",
+    "category": "Nintendo DS",
+    "author": "Renegade Kid",
+    "version": "1.0",
+    "size_mb": 35.0,
+    "url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/files/dementium.nds",
+    "type": "file",
+    "dest": "ux0:data/dsvita/Dementium - The Ward.nds",
+    "desc": "Survival horror em primeira pessoa para Nintendo DS."
+  }
+]
