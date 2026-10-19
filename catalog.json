@@ -56,7 +56,7 @@
     "size_mb": 4.5,
     "url": "https://archive.org/download/pack-roms-nintendo-ds-eu-usa-jap-rabbits-games/Dementium%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip",
     "type": "vpk",
-    "dest": "ux0:app/VITASHELL",
+    "dest": "ux0:app/dsvita/Dementium II (Europe) (En,Fr,De,Es,It).nds",
     "desc": "O mais essencial explorador de arquivos, instalador de VPKs e cliente FTP para PS Vita."
   }
 ]
