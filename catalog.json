@@ -6,10 +6,10 @@
     "author": "Shanda Games",
     "version": "9.0",
     "size_mb": 28.5,
-    "url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/files/Crazy_Zombie_9.zip",
+    "url": "https://archive.org/download/crazy-zombie-9/Crazy_Zombie_9.zip",
     "type": "zip",
     "dest": "ux0:data/FlashGames/Crazy_Zombie_9/",
-    "desc": "Jogo Flash Beat 'em up completo com Goku, Naruto, Sephiroth e outros."
+    "desc": "Jogo Beat 'em up Flash completo com Goku, Naruto, Dante e outros."
   },
   {
     "id": "dbz_supersonic_2",
@@ -18,10 +18,10 @@
     "author": "Bandai / Cavia",
     "version": "1.0",
     "size_mb": 42.0,
-    "url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/files/dbz_supersonic2.nds",
+    "url": "https://archive.org/download/dbz-supersonic-2/dbz_supersonic2.nds",
     "type": "file",
     "dest": "ux0:data/dsvita/Dragon Ball Z - Supersonic Warriors 2.nds",
-    "desc": "Lutas aereas 2D para Nintendo DS (executar no DSVita ou NooDS)."
+    "desc": "Lutas 2D aereas de Dragon Ball Z para emulador de Nintendo DS."
   },
   {
     "id": "dementium_ward",
@@ -30,9 +30,21 @@
     "author": "Renegade Kid",
     "version": "1.0",
     "size_mb": 35.0,
-    "url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/files/dementium.nds",
+    "url": "https://archive.org/download/dementium-the-ward/dementium.nds",
     "type": "file",
     "dest": "ux0:data/dsvita/Dementium - The Ward.nds",
-    "desc": "Survival horror em primeira pessoa para Nintendo DS."
+    "desc": "Classico survival horror 3D em primeira pessoa para Nintendo DS."
+  },
+  {
+    "id": "vitashell",
+    "title": "VitaShell (Gerenciador de Arquivos)",
+    "category": "Homebrew / VPK",
+    "author": "TheFloW",
+    "version": "2.00",
+    "size_mb": 4.5,
+    "url": "https://github.com/TheOfficialFloW/VitaShell/releases/download/2.00/VitaShell.vpk",
+    "type": "vpk",
+    "dest": "ux0:app/VITASHELL",
+    "desc": "O mais essencial explorador de arquivos, instalador de VPKs e cliente FTP para PS Vita."
   }
 ]
