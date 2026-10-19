@@ -47,4 +47,16 @@
     "dest": "ux0:app/VITASHELL",
     "desc": "O mais essencial explorador de arquivos, instalador de VPKs e cliente FTP para PS Vita."
   }
+  {
+    "id": "demetiun 2",
+    "title": "VitaShell (Gerenciador de Arquivos)",
+    "category": "Homebrew / VPK",
+    "author": "TheFloW",
+    "version": "2.00",
+    "size_mb": 4.5,
+    "url": "https://archive.org/download/pack-roms-nintendo-ds-eu-usa-jap-rabbits-games/Dementium%20II%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip",
+    "type": "vpk",
+    "dest": "ux0:app/VITASHELL",
+    "desc": "O mais essencial explorador de arquivos, instalador de VPKs e cliente FTP para PS Vita."
+  }
 ]
